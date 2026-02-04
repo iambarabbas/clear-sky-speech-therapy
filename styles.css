@@ -415,7 +415,7 @@ body {
 /* SEO Heading Optimization */
 .services-column > h2,
 .process-column > h2 {
-    font-size: 20px;
+    font-size: 32px;
     color: #20465b;
     margin-bottom: 15px;
     font-weight: 600;
@@ -423,10 +423,12 @@ body {
 }
 
 .therapist-info > h3 {
-    font-size: 18px;
+    font-size: 14px;
     color: #20465b;
-    margin-bottom: 12px;
+    margin-bottom: 8px;
     font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
 }
 
 .hero-headline .subtitle {
