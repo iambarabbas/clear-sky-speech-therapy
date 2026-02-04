@@ -102,19 +102,13 @@ body {
 }
 
 .hero-headline {
-    font-size: 56px;
+    font-size: 64px;
     font-weight: 700;
-    line-height: 1.2;
-    margin-bottom: 20px;
-    letter-spacing: -0.5px;
-    .hero-headline {
-        font-size: 64px;
-        font-weight: 700;
-        line-height: 1.08;
-        margin-bottom: 18px;
-        letter-spacing: -0.6px;
-        max-width: 720px;
-    }
+    line-height: 1.08;
+    margin-bottom: 18px;
+    letter-spacing: -0.6px;
+    max-width: 720px;
+}
 
 .hero-description {
     font-size: 18px;
@@ -440,17 +434,10 @@ body {
 
 .hero-headline .subtitle {
     display: block;
-    font-size: 24px;
-    font-weight: 400;
-    margin-top: 12px;
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 10px;
     opacity: 0.95;
+    letter-spacing: 0.6px;
+    text-transform: none;
 }
-    .hero-headline .subtitle {
-        display: block;
-        font-size: 18px;
-        font-weight: 500;
-        margin-top: 10px;
-        opacity: 0.95;
-        letter-spacing: 0.6px;
-        text-transform: none;
-    }
