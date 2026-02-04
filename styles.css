@@ -10,6 +10,30 @@ body {
     color: #333;
 }
 
+/* Phone Banner */
+.phone-banner {
+    background: #20465b;
+    color: white;
+    padding: 12px 20px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.phone-banner p {
+    margin: 0;
+}
+
+.phone-banner a {
+    color: #ffb59a;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.phone-banner a:hover {
+    text-decoration: underline;
+}
+
 /* Hero Section */
 .hero {
     background: linear-gradient(135deg, #20465b 0%, #3a7899 100%);
