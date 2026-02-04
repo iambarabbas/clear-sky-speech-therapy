@@ -411,3 +411,28 @@ body {
         font-size: 13px;
     }
 }
+
+/* SEO Heading Optimization */
+.services-column > h2,
+.process-column > h2 {
+    font-size: 20px;
+    color: #20465b;
+    margin-bottom: 15px;
+    font-weight: 600;
+    letter-spacing: 0.3px;
+}
+
+.therapist-info > h3 {
+    font-size: 18px;
+    color: #20465b;
+    margin-bottom: 12px;
+    font-weight: 600;
+}
+
+.hero-headline .subtitle {
+    display: block;
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 12px;
+    opacity: 0.95;
+}
